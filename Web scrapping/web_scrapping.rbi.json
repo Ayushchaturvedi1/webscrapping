@@ -1,0 +1,204 @@
+[{
+  "_id": {
+    "$oid": "65d730b4758ff77115499056"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->UserManual",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/UM122012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73113758ff77115499058"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->InstallationInstruction",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/II012012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73142758ff7711549905a"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->XOSNew",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/Scripts/..\\upload\\ERSystem\\xosNew.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d731a8758ff7711549905c"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->XOSADSetup",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/Scripts/..\\upload\\ERSystem\\xosadsetup.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d731c3758ff7711549905e"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->XOSStructure",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/XOSS122012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7320a758ff77115499060"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "OverseasInvestmentApplication<->UserManual",
+    "word_link": "https://rbi.org.in/..\\upload\\ERSystem\\UMOID020310.doc",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/UMOID020310.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73245758ff77115499062"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "ReportingMechanism<->DataofAuthorisedDealersCategoryBranches",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/..\\upload\\ERSystem\\RBIMOFSETUP2011.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7325e758ff77115499064"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->Circular",
+    "word_link": "https://rbi.org.in/..\\upload\\ERSystem\\xoscircular.doc",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/xoscircular.Pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7327c758ff77115499066"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "NRD-CSRsoftware<->NRD-CSRVersion3.0",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/NRD-CSR.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7329f758ff77115499068"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "XOSPackageforADs<->InstallationPackage",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/Xossetup.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d732f0758ff7711549906a"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->Patch(for existing users of FET-ERS Version 6.2)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/Patch%20.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7330d758ff7711549906c"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->InstallationProcedure",
+    "word_link": "https://rbi.org.in/upload/ERSystem/Installation%20Procedure.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73348758ff7711549906e"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->Install.bat-(Batch File Right Click and Download the exe )",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/INSTALL.ZIP"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73365758ff77115499070"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->PKUNZIP-(Right Click and Download the exe)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/pkunzip.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73383758ff77115499072"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->FET-ERSPackage(For IBDs of all banks)(Latest version updated on May 20, 2004)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/FETERS62.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d733bd758ff77115499074"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->Feters-Guidlines",
+    "word_link": "https://rbi.org.in/upload/ERSystem/FETERS62ADs.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73419758ff77115499076"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type_third": {
+    "title": "FETERSsoftware<->NewPurposecodesforreportingforextransactions",
+    "word_link": "https://rbi.org.in/upload/ERSystem/Installation%20Procedure.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+}]

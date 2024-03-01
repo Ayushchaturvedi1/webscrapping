@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "65e0800e1046ab64cbb875bf"
+  },
+  "tagString ": "Ministry of Labour and Employement <-> Central Secretariate Manual of Office Procedure(CSMOP)",
+  "metaData": {
+    "text": "Central Secretariate Manual of Office Procedure(CSMOP)",
+    "pdfUrl": [
+      "https://labour.gov.in/sites/default/files/csmop2022.pdf"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65e080861046ab64cbb875c1"
+  },
+  "tagString ": "Ministry of Labour and Employement <-> Code of Discipline",
+  "metaData": {
+    "text": "Code of Discipline",
+    "pdfUrl": [
+      "https://labour.gov.in/sites/default/files/code_of_discipline.pdf"
+    ]
+  }
+},
+{
+  "_id": {
+    "$oid": "65e081081046ab64cbb875c3"
+  },
+  "tagString ": "Ministry of Labour and Employement <-> Report of the expert committee",
+  "metaData": {
+    "text": "Report of the expert committee",
+    "pdfUrl": [
+      "https://labour.gov.in/sites/default/files/commitee_on_determination_of_methodology.pdf"
+    ]
+  }
+}]

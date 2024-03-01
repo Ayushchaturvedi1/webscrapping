@@ -1,0 +1,999 @@
+[{
+  "_id": {
+    "$oid": "65d730b4758ff77115499056"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->UserManual",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/UM122012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73113758ff77115499058"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->InstallationInstruction",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/II012012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73142758ff7711549905a"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->XOSNew",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/Scripts/..\\upload\\ERSystem\\xosNew.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d731a8758ff7711549905c"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->XOSADSetup",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/Scripts/..\\upload\\ERSystem\\xosadsetup.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d731c3758ff7711549905e"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->XOSStructure",
+    "word_link": "",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/XOSS122012.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7320a758ff77115499060"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "OverseasInvestmentApplication<->UserManual",
+    "word_link": "https://rbi.org.in/..\\upload\\ERSystem\\UMOID020310.doc",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/UMOID020310.pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73245758ff77115499062"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "ReportingMechanism<->DataofAuthorisedDealersCategoryBranches",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/..\\upload\\ERSystem\\RBIMOFSETUP2011.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7325e758ff77115499064"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->Circular",
+    "word_link": "https://rbi.org.in/..\\upload\\ERSystem\\xoscircular.doc",
+    "pdf_link": "https://rbi.org.in/upload/ERSystem/xoscircular.Pdf",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7327c758ff77115499066"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "NRD-CSRsoftware<->NRD-CSRVersion3.0",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/NRD-CSR.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7329f758ff77115499068"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "XOSPackageforADs<->InstallationPackage",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/Xossetup.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d732f0758ff7711549906a"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->Patch(for existing users of FET-ERS Version 6.2)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/Patch%20.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d7330d758ff7711549906c"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->InstallationProcedure",
+    "word_link": "https://rbi.org.in/upload/ERSystem/Installation%20Procedure.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73348758ff7711549906e"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->Install.bat-(Batch File Right Click and Download the exe )",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/INSTALL.ZIP"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73365758ff77115499070"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->PKUNZIP-(Right Click and Download the exe)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/pkunzip.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73383758ff77115499072"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->FET-ERSPackage(For IBDs of all banks)(Latest version updated on May 20, 2004)",
+    "word_link": "",
+    "pdf_link": "",
+    "zip_link": "https://rbi.org.in/upload/ERSystem/FETERS62.zip"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d733bd758ff77115499074"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->Feters-Guidlines",
+    "word_link": "https://rbi.org.in/upload/ERSystem/FETERS62ADs.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73419758ff77115499076"
+  },
+  "tags": "FEMA<->ELECTRONICREPORTINGSYSTEM",
+  "type 3": {
+    "title": "FETERSsoftware<->NewPurposecodesforreportingforextransactions",
+    "word_link": "https://rbi.org.in/upload/ERSystem/Installation%20Procedure.doc",
+    "pdf_link": "",
+    "zip_link": ""
+  }
+},
+{
+  "_id": {
+    "$oid": "65d739ab758ff77115499078"
+  },
+  "tags": "FEMA<->Money Transfer Service Scheme (MTSS) – List of Overseas Principals, Indian Agents and their Sub- Agents",
+  "type 3": {
+    "title": "Chandigarh(as on December 31,2023)",
+    "excel_link": "https://rbidocs.rbi.org.in/rdocs/content/docs/10102014_2.xls"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d739e4758ff7711549907a"
+  },
+  "tags": "FEMA<->Money Transfer Service Scheme (MTSS) – List of Overseas Principals, Indian Agents and their Sub- Agents",
+  "type 3": {
+    "title": "Kochi (as on December 31,2023)",
+    "excel_link": "https://rbidocs.rbi.org.in/rdocs/content/docs/10102014_4.xlsx"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73a2d758ff7711549907c"
+  },
+  "tags": "FEMA<->Money Transfer Service Scheme (MTSS) – List of Overseas Principals, Indian Agents and their Sub- Agents",
+  "type 3": {
+    "title": "Mumbai(as on December 31,2023)",
+    "excel_link": "https://rbidocs.rbi.org.in/rdocs/content/docs/10102014_5.xlsx"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d73a57758ff7711549907e"
+  },
+  "tags": "FEMA<->Money Transfer Service Scheme (MTSS) – List of Overseas Principals, Indian Agents and their Sub- Agents",
+  "type 3": {
+    "title": "New Delhi(as on December 31,2023)",
+    "excel_link": "https://rbidocs.rbi.org.in/rdocs/content/docs/10102014_6.xlsx"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc74"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Ahmedabad",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10044.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc75"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Bangalore",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10045.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc76"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Bhopal",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10046.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc77"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Bhubaneswar",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10047.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc78"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Chandigarh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10049.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc79"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Chennai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10050.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7a"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Guwahati",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10051.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7b"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Hyderabad - Andhra Pradesh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/AndhraPradeshCancelledFFMCs12012023.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7c"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Hyderabad - Telangana",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10052.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7d"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Jammu",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/Jammu03122021.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7e"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Jaipur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10053.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc7f"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Kanpur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10054.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc80"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Kochi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10055.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc81"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Kolkata",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10056.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc82"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Mumbai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10057.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc83"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "New Delhi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10058.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8486fa2b16ffbd48fdc84"
+  },
+  "Tags": "FEMA <->List of FFMC Licences Cancelled",
+  "type 3": {
+    "Place": "Panaji",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10059.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9ac"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Ahmedabad",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10028.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9ad"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Bangalore",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10029.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9ae"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Bhopal",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10030.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9af"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Chandigarh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10031.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b0"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Chennai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10033.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b1"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Guwahati",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10034.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b2"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Hyderabad - Telangana",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10035.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b3"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Jaipur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10036.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b4"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Jammu",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/JAMMU09062022.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b5"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Kanpur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10037.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b6"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Kochi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10038.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b7"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Kolkata",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10039.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b8"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Panaji",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10040.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9b9"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Patna",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10041.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9ba"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "Mumbai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10042.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d8489eccd437f3f19af9bb"
+  },
+  "Tags": "FEMA <->List of Authorised Franchisees of ADs/FFMCs",
+  "type 3": {
+    "Place": "New Delhi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10043.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f802"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Ahmedabad",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10011.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f803"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Bangalore",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10012.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f804"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Bhopal",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10013.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f805"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Bhubaneswar",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10014.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f806"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Chandigarh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10015.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f807"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Chennai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10016.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f808"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Guwahati",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10017.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f809"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Hyderabad - Andhra Pradesh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/AndhraPradeshFFMCs_12012023.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80a"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Hyderabad - Telangana",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10018.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80b"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Jaipur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80c"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Jammu",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10020.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80d"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Kanpur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10021.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80e"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Kochi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10022.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f80f"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Kolkata",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10023.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f810"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Mumbai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10024.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f811"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "New Delhi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10025.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f812"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Panaji",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10026.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d848da497c9f3ba506f813"
+  },
+  "Tags": "FEMA <->List of Full Fledged Money Changers",
+  "type 3": {
+    "Place": "Patna",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10027.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30cd"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Ahmedabad",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10001.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30ce"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Bangalore",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10002.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30cf"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Chennai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10003.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d0"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Chandigarh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10004.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d1"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Hyderabad - Andhra Pradesh",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/AndhraPradeshADsCatII12012023.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d2"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Hyderabad - Telangana",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10006.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d3"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Jaipur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/JAIPURADCATII.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d4"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Kanpur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10007.pdf"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d5"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Kochi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10008.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d6"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Kolkata",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10063.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d7"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "Mumbai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10009.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84ae6c873e5a721ad30d8"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II",
+  "type 3": {
+    "Place": "New Delhi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/10010.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7564"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Ahmedabad",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/Ahmedabad19072019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7565"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Bangalore",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/Bangalore09112023.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7566"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Chennai",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/Chennai14062019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7567"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Jaipur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/Jaipur16082019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7568"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "New Delhi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/DELHI12102019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a7569"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Kolkata",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/KOLKATA02012019.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a756a"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Kochi",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/KOCHI20022020.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84b18790d89ab523a756b"
+  },
+  "Tags": "FEMA <->List of Authorised Dealers Category-II  Licences Cancelled",
+  "type 3": {
+    "Place": "Kanpur",
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/KANPUR24112021.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84c07758ff7711549909c"
+  },
+  "Tags": "FEMA <->Category-I",
+  "type 3": {
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/1061.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84dcfb273650de8e8b8e3"
+  },
+  "Tags": "FEMA <-> Unique Identification Numbers allotted to Branch Offices and Liaison Offices of Foreign entities in India (as on September 30, 2023)",
+  "type 3": {
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/Content/docs/UIN100001.xls"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d84e88b273650de8e8b8e5"
+  },
+  "Tags": "FEMA <-> State and District Code List",
+  "type 3": {
+    "pdf_link": "http://rbidocs.rbi.org.in/rdocs/Content/docs/A133SDCS0714.xls"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d85038b273650de8e8b8e7"
+  },
+  "Tags": "FEMA <-> User manual for Entity Master-FIRMS",
+  "type 3": {
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/USERMANUAL270620189E89DF88A9574C0E9B5CE09A14AA263E.PDF"
+  }
+},
+{
+  "_id": {
+    "$oid": "65d850bab273650de8e8b8e9"
+  },
+  "Tags": "FEMA <->User manual for SMF- FIRMS application",
+  "type 3": {
+    "pdf_link": "https://rbidocs.rbi.org.in/rdocs/FEMAMASTER/PDFs/SMF-FIRMS347E34AF5938415DAD0904E0584FB5A1.PDF"
+  }
+}]
